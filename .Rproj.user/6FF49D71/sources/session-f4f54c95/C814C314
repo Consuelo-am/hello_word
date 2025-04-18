@@ -3,9 +3,9 @@
     "path": "C:/Users/consu/OneDrive/Desktop/R/hello_word/Main.R",
     "project_path": "Main.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2618213234",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1744988968214.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1744988968,
+    "lastKnownWriteTime": 1744989271,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1744989113940,
+    "last_content_update": 1744989271639,
     "read_only": false,
     "read_only_alternatives": []
 }
